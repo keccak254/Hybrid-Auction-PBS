@@ -6,7 +6,7 @@ We begin with a basic analysis of just-in-time (JIT) auctions, as represented by
 
 Hybrid auction formats will then be examined in the context of proposals related to PEPC-boost, Suave, and other partial block auctions, and the protocols and user implications in each format will be analyzed. The comparative analysis will then conclude the best auction format and implement it[3][4][5][6][7].
 
-The final product will be published in the form of a research paper and blog post and implementation on Hybrid auction formats comparing PEPC-boost, Suave, and other partial block auctions in terms of protocols and user needs and expectations.(Only the auction format that was evaluated as the best within the study will be implemented.)
+The final product will be published in the form of a research paper and blog post and implementation on Hybrid auction formats comparing PEPC-boost, Suave, and other partial block auctions in terms of protocols and user needs and expectations. (Only the auction format that was evaluated as the best within the study will be implemented.)
 
 ### reference
 - [1] https://mirror.xyz/0x03c29504CEcCa30B93FF5774183a1358D41fbeB1/CPYI91s98cp9zKFkanKs_qotYzw09kWvouaAa9GXBrQ
